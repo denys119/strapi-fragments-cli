@@ -1,5 +1,5 @@
 {
-  "name": "strapi-fragments-cli",
+  "name": "fragments-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": "https://github.com/denys119/strapi-fragments-cli",
   "bin": {
-    "generate-fragment": "index.js"
+    "fragments-cli": "index.js"
   },
   "keywords": [],
   "author": "Bodea Denis",
